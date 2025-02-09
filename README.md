@@ -11,11 +11,11 @@ Salifort Motors, a leading alternative energy vehicle manufacturer, conducted an
 
 ## Approach
 
-This project utilizes a [Regression Model/Tree-based Machine Learning Model - *scegli uno*] to predict employee churn based on factors such as department, number of projects, average monthly hours, and other relevant data points.
+This project utilizes a Regression Model to predict employee churn based on factors such as department, number of projects, average monthly hours, and other relevant data points.
 
 ## Dataset
 
-The dataset used in this analysis (`data/employee_survey_data.csv`) contains employee survey responses, including [elenca le variabili più importanti].
+The dataset used in this analysis (`data/employee_survey_data.csv`) contains employee survey responses.
 
 ## Methodology
 
@@ -26,25 +26,3 @@ The analysis was performed using [linguaggio e librerie principali, es. Python c
 3.  Model Training (`scripts/model_training.py` or within the notebook)
 4.  Model Evaluation
 5.  Visualization and Interpretation (`notebooks/employee_retention_analysis.ipynb`)
-
-## Results
-
-[Riassumi brevemente i risultati principali.  Ad esempio: "The model achieved an accuracy of X% in predicting employee churn. Key factors influencing churn include..."]  Include immagini o grafici rilevanti nella cartella `images/` e fai riferimento ad essi qui.
-
-## Model
-
-The trained model is saved as `models/trained_model.pkl`.
-
-## How to Run the Code
-
-1.  Clone the repository: `git clone https://github.com/your-username/salifort-employee-retention.git`
-2.  Install dependencies: `pip install -r requirements.txt`
-3.  Run the analysis notebook: `jupyter notebook notebooks/employee_retention_analysis.ipynb` (oppure esegui gli script direttamente)
-
-## Conclusion
-
-[Breve conclusione e possibili passi futuri]
-
-## Contact
-
-[Your Name]
