@@ -19,10 +19,4 @@ The dataset used in this analysis (`data/employee_survey_data.csv`) contains emp
 
 ## Methodology
 
-The analysis was performed using [linguaggio e librerie principali, es. Python con Pandas, Scikit-learn].  The following steps were taken:
-
-1.  Data Cleaning and Preprocessing (`scripts/data_processing.py` or within the notebook)
-2.  Feature Engineering (if applicable)
-3.  Model Training (`scripts/model_training.py` or within the notebook)
-4.  Model Evaluation
-5.  Visualization and Interpretation (`notebooks/employee_retention_analysis.ipynb`)
+The analysis was performed using Python with Pandas, Seabornn Pyplot, Scikit-learn].
